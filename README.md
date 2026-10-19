@@ -1,16 +1,23 @@
-# React + Vite
+# Pip's Dream Bureau
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+haX.baby "Baby's First Portfolio" (Track 1: Pip). A 90s-desktop style portfolio built with React 18, Vite, TypeScript, Zustand, Framer Motion and React Three Fiber.
 
-Currently, two official plugins are available:
+## Run locally
+```
+npm install
+npm run dev
+```
+Build: `npm run build`. Preview: `npm run preview`.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Deploy
+Push to `main`. In the GitHub repo go to Settings > Pages > Source: GitHub Actions. The included workflow builds and publishes the site. Vercel and Netlify also work (build: `npm run build`, output: `dist`).
 
-## React Compiler
+## Features
+Cursor/touch tilt, day/night, Easter egg (click Pip 5 times), Web Audio lullaby with mute, sparkle trail, visitor odometer, guestbook (saved on the device), rule-based chat that remembers your name, storybook (buttons, arrow keys, swipe), scroll-driven delivery map, catch-the-dreams game with block toys, flashlight Dream Cellar with 3 hidden stars, 3D diorama, chaos mode.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Credits
+- Art: official haX.baby Pip Creator Asset Pack (all images).
+- Fonts: Pixelify Sans and Nunito (Google Fonts, SIL OFL).
+- Libraries: React, Vite, Zustand, Framer Motion, three.js, React Three Fiber, drei (MIT).
+- Sound: Web Audio API, melody written for this project.
+- Built with Claude's help; code reviewed and tested by me.
