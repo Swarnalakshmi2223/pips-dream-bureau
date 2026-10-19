@@ -14,7 +14,7 @@ Built for the <b>haX.baby "Baby's First Portfolio" hackathon</b> (Track 1: Pip),
   <img alt="three.js" src="https://img.shields.io/badge/three.js-R3F-000000?logo=threedotjs&logoColor=white">
 </p>
 
-<p align="center"><a href="https://github.com/Swarnalakshmi2223/pips-dream-bureau.git"><b>▶ Open the live site</b></a></p>
+<p align="center"><a href="https://pips-dream-bureau.vercel.app/"><b>▶ Open the live site</b></a></p>
 
 <p align="center">
   <img src="docs/screenshots/01-hero.jpg" alt="Pip's Dream Bureau home screen" width="100%">
