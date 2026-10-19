@@ -7,24 +7,23 @@ Built for the **haX.baby "Baby's First Portfolio" hackathon (Track 1: Pip)**, 17
 
 **Live site:** https://YOUR-USERNAME.github.io/pips-dream-bureau/
 
-![Full page preview](docs/screenshots/full-page.jpg)
+<p align="center"><img src="docs/art/banner.jpg" alt="Pip, the lullaby music box and the dream lantern" width="100%"></p>
 
 ## Preview
 
-### Meet Pip
-![Hero and character sheet](docs/screenshots/01-hero-meet.jpg)
+<p align="center">
+  <img src="docs/art/pip-waving.jpg" alt="Pip waving on a cloud" width="30%">
+  <img src="docs/art/music-box.jpg" alt="Lullaby Lab music box" width="30%">
+  <img src="docs/art/night-lamp.jpg" alt="Nightlight lamp" width="30%">
+</p>
 
-### Projects: Lullaby Lab, Nightlight Collection, Growth Chart
-![Projects](docs/screenshots/02-projects.jpg)
+### Site screenshots
 
-### Delivery map, storybook and toys
-![Map, storybook and game](docs/screenshots/03-map-book-game.jpg)
-
-### 3D diorama and chat
-![3D diorama and chat](docs/screenshots/04-3d-chat.jpg)
-
-### Story and guestbook
-![Story and guestbook](docs/screenshots/05-story-guestbook.jpg)
+<img src="docs/screenshots/01-hero-meet.jpg" alt="Hero and character sheet" width="100%">
+<img src="docs/screenshots/02-projects.jpg" alt="Projects" width="100%">
+<img src="docs/screenshots/03-map-book-game.jpg" alt="Map, storybook and game" width="100%">
+<img src="docs/screenshots/04-3d-chat.jpg" alt="3D diorama and chat" width="100%">
+<img src="docs/screenshots/05-story-guestbook.jpg" alt="Story and guestbook" width="100%">
 
 ## Features
 
