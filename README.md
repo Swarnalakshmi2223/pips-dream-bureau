@@ -83,7 +83,7 @@ Visitors can meet Pip, wind a music box, switch on lamps, follow a rooftop deliv
 You need [Node.js](https://nodejs.org/) 18 or newer.
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/pips-dream-bureau.git
+https://github.com/Swarnalakshmi2223/pips-dream-bureau.git
 cd pips-dream-bureau
 npm install
 npm run dev
